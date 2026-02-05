@@ -1,4 +1,4 @@
-ext Classification NLP Project
+**Text Classification NLP Project**
 Project Overview
 
 This project implements an end-to-end NLP pipeline for text classification. It takes raw text data, preprocesses it, trains a machine learning/deep learning model, and predicts the category of new text inputs.
